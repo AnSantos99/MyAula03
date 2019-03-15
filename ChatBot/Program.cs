@@ -7,7 +7,7 @@ namespace ChatBot
         static void Main(string[] args)
         {
             string answer;
-
+            
             while (true)
             { 
                 Console.WriteLine("Are you good?");
