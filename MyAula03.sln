@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot\ChatBot.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piramide", "Piramide\Piramide.csproj", "{1D5BFBA0-CECA-41DB-8AE1-626A80AFFFCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercorreString", "PercorreString\PercorreString.csproj", "{8E144251-5FBC-4E0B-BE7B-BE97EE007285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1D5BFBA0-CECA-41DB-8AE1-626A80AFFFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D5BFBA0-CECA-41DB-8AE1-626A80AFFFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D5BFBA0-CECA-41DB-8AE1-626A80AFFFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E144251-5FBC-4E0B-BE7B-BE97EE007285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E144251-5FBC-4E0B-BE7B-BE97EE007285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E144251-5FBC-4E0B-BE7B-BE97EE007285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E144251-5FBC-4E0B-BE7B-BE97EE007285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
